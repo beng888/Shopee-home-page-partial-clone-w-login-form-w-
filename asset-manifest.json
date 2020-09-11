@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/Shopee-home-page-partial-clone-w-login-form-w-/static/css/main.f8511d6d.chunk.css",
+    "main.js": "/Shopee-home-page-partial-clone-w-login-form-w-/static/js/main.4f426750.chunk.js",
+    "main.js.map": "/Shopee-home-page-partial-clone-w-login-form-w-/static/js/main.4f426750.chunk.js.map",
+    "runtime-main.js": "/Shopee-home-page-partial-clone-w-login-form-w-/static/js/runtime-main.aa139606.js",
+    "runtime-main.js.map": "/Shopee-home-page-partial-clone-w-login-form-w-/static/js/runtime-main.aa139606.js.map",
+    "static/css/2.d9ad5f5c.chunk.css": "/Shopee-home-page-partial-clone-w-login-form-w-/static/css/2.d9ad5f5c.chunk.css",
+    "static/js/2.e5d7d797.chunk.js": "/Shopee-home-page-partial-clone-w-login-form-w-/static/js/2.e5d7d797.chunk.js",
+    "static/js/2.e5d7d797.chunk.js.map": "/Shopee-home-page-partial-clone-w-login-form-w-/static/js/2.e5d7d797.chunk.js.map",
+    "index.html": "/Shopee-home-page-partial-clone-w-login-form-w-/index.html",
+    "precache-manifest.c7c3e63ce13fda08501e375206d4655e.js": "/Shopee-home-page-partial-clone-w-login-form-w-/precache-manifest.c7c3e63ce13fda08501e375206d4655e.js",
+    "service-worker.js": "/Shopee-home-page-partial-clone-w-login-form-w-/service-worker.js",
+    "static/css/2.d9ad5f5c.chunk.css.map": "/Shopee-home-page-partial-clone-w-login-form-w-/static/css/2.d9ad5f5c.chunk.css.map",
+    "static/css/main.f8511d6d.chunk.css.map": "/Shopee-home-page-partial-clone-w-login-form-w-/static/css/main.f8511d6d.chunk.css.map",
+    "static/js/2.e5d7d797.chunk.js.LICENSE.txt": "/Shopee-home-page-partial-clone-w-login-form-w-/static/js/2.e5d7d797.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.aa139606.js",
+    "static/css/2.d9ad5f5c.chunk.css",
+    "static/js/2.e5d7d797.chunk.js",
+    "static/css/main.f8511d6d.chunk.css",
+    "static/js/main.4f426750.chunk.js"
+  ]
+}
